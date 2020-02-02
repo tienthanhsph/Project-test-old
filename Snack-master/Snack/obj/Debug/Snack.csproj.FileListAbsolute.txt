@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\bin\Debug\Snack.exe.config
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.frm.resources
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.Properties.Resources.resources
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\bin\Debug\Snack.exe
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\bin\Debug\Snack.pdb
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.exe
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.pdb
+C:\Users\Admin\OneDrive\PROJECT\Snack\Snack\obj\Debug\Snack.Form2.resources

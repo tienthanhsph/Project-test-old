@@ -1,0 +1,11 @@
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\bin\Debug\MacOS.exe.config
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\bin\Debug\MacOS.exe
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\bin\Debug\MacOS.pdb
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.Properties.Resources.resources
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.Desktop.resources
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.csproj.GenerateResource.Cache
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.exe
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.pdb
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.UCApplication.resources
+C:\Users\TIEN THANH\Desktop\MacOS\MacOS\obj\Debug\MacOS.UC.resources

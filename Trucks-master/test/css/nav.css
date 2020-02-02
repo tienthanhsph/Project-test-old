@@ -1,0 +1,133 @@
+.navbar a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-stretch: bold;
+}
+.navbar a:hover{
+    color:red;
+    text-decoration: none;
+}
+.navbar ul{
+    padding: 0px;
+}
+.navbar li{
+    margin: 0px;
+}
+
+
+.navbar2 a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-stretch: bold;
+}
+.navbar2 a:hover{
+    color:red;
+    text-decoration: none;
+}
+.navbar2 ul{
+    padding: 0px;
+}
+.navbar2 li{
+    margin: 0px;
+}
+/*Style ngang*/
+
+.navbar2{
+    height: 50px;
+    margin:  0px auto;
+    padding:0px;
+}
+.navbar2 li{
+    float:left;
+     display: block;
+    border:solid red 1px;
+}
+.navbar2 li li{
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 0px;
+}
+.navbar2 ul li{
+    position: relative;
+}
+.navbar2 li ul{
+    position: absolute;
+    top: 50px auto;
+    left:0px;
+}
+.navbar2 li ul ul{
+    top: 0px;
+    left: 200px;
+}
+
+.navbar2 li ul{
+    display: none;
+}
+.navbar2 li:hover ul ul,
+.navbar2 li:hover ul ul ul,
+.navbar2 li:hover ul ul ul ul{
+    display:  none;
+}
+.navbar2 li:hover ul,
+.navbar2 li li:hover ul,
+.navbar2 li li li:hover ul{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Style doc*/
+.navbar li{
+    width: 200px;
+    height: 50px;
+    display: block;
+    border: solid red 1px;
+}
+    
+
+.navbar ul ul{
+    
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+    
+    
+.navbar ul li{
+    position: relative;
+}
+
+.navbar li ul{
+    display:  none;
+}
+
+.navbar li:hover ul ul,
+.navbar li:hover ul ul ul,
+.navbar li:hover ul ul ul ul{
+    display:  none;
+}
+
+.navbar li:hover ul,
+.navbar li li:hover ul,
+.navbar li li li:hover ul{
+    display: block;
+}
+
+

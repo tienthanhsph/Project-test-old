@@ -1,0 +1,57 @@
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.exe.config
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.exe
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.pdb
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlXetDuyet.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlKeKhai.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlThamDinh.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.Form1.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmDonViHanhChinh.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmGiaDinh.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmHOSO.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmQuanLyHoSo.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmTimKiem.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.Properties.Resources.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.exe
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.pdb
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlCapGCNDatNN.resources
+C:\Users\Administrator\Desktop\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.exe.config
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.exe
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.exe.config
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.exe
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.exe
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlCapGCNDatNN.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlKeKhai.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmDonViHanhChinh.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmGiaDinh.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmHOSO.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmQuanLyHoSo.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmTimKiem.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.Properties.Resources.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.exe
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\bin\Debug\prjDatNongNghiep.pdb
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlCapGCNDatNN.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlKeKhai.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmDonViHanhChinh.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmGiaDinh.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmHOSO.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmQuanLyHoSo.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmTimKiem.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmNopTien.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlXetGiaoDatNN.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlXetQSDD.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmCanBo.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlXetGiaoDatNN.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.ctrlXetQSDD.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmCanBo.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.frmNopTien.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.UserControl1.resources
+C:\Users\Administrator\OneDrive\WORKING___\project Dat Nong Nghiep\prjDatNongNghiep\prjDatNongNghiep\obj\Debug\prjDatNongNghiep.csprojResolveAssemblyReference.cache

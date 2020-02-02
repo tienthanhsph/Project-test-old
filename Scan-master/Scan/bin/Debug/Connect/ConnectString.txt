@@ -1,0 +1,1 @@
+SERVER = TIENTHANH-PC\SQLEXPRESS; DATABASE = georgetown_TayHo; User ID = sa; Password = Thanhid1

@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Excute.master.cs" Inherits="DMCWeb.Excute" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">   
+	<title>Nghiệp vụ</title>
+    <webopt:bundlereference runat="server" path="~/Content/style.css" />
+     <webopt:bundlereference runat="server" path="~/Content/bootstrap.css" />
+</head>
+<body>
+    <form id="form2" runat="server">
+	<header>
+		<div class="account" runat="server" id="DangDangNhap">
+			<ul>
+				<li><a href="~/Account/ThongTinTaiKhoan.aspx?Username=<%# lblUsername.Text %>"><span class="glyphicon glyphicon-user"></span> <asp:Label ID="lblUsername" runat="server" Text=""></asp:Label></a>
+				<ul>
+					<li><a runat="server"  href="TrangChuAdmin.aspx">Quản trị</a></li>
+					<li><a runat="server"  href="TrangChuKeKhai.aspx">Kê khai</a></li>
+					<li><a runat="server"  href="~/Account/DangXuat.aspx"><span class="glyphicon glyphicon-log-out"></span> Đăng xuất</a></li>
+				</ul>
+				</li>
+
+			</ul>
+			
+		</div>
+
+		<div class="nav">
+			<ul>
+				<li><a href="#">Tiếp nhận hồ sơ &darr;</a>
+					<ul>
+						<li><a runat="server"  href="~/VanPhong/TiepNhanDon/BaoCaoHoSoDangKyMoi.aspx">Đăng ký GCN</a></li>
+						<li><a runat="server"  href="~/VanPhong/TiepNhanDon/BaoCaoHoSoBienDongMoi.aspx">Đăng ký biến động</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Quản lý hồ sơ &darr;</a>
+					<ul>
+						<li><a runat="server"  href="~/VanPhong/TimKiemHoSo.aspx">Hồ sơ cấp GCN</a></li>
+						<li><a runat="server"  href="~/VanPhong/TimKiemHoSoBienDong.aspx">Hồ sơ biến động</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Xử lý nghiệp vụ &darr;</a>
+					<ul>
+						<li><a href="#">1. Cấp cơ sở</a></li>
+						<li><a href="#">2. VPĐKĐĐ</a></li>
+						<li><a href="#">3. Phòng TNMT</a></li>
+					</ul>
+				</li>
+				
+			</ul>
+		</div><!-- end div nav	-->
+	</header>
+
+
+	<div id="content">
+	    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	</div>
+	<footer>
+		&copy; Nguyễn Tiến Thành.
+	</footer>
+</form>
+</body>
+</hmtl>

@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.CbBoxItems.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.ChonCot.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.ChonCotBD.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.DanhSachBienDong.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.EditColumns.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.GanKieu.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.Main.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.Properties.Resources.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.QuanLyThongSo.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.Script.resources
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\bin\Debug\BaoCaoDong.exe
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\bin\Debug\BaoCaoDong.pdb
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.exe
+C:\Users\Admin\Desktop\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.pdb
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\bin\Debug\BaoCaoDong.exe
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\bin\Debug\BaoCaoDong.pdb
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.CbBoxItems.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.ChonCot.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.ChonCotBD.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.DanhSachBienDong.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.EditColumns.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.GanKieu.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.Main.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.Properties.Resources.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.QuanLyThongSo.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.Script.resources
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.exe
+C:\Users\Admin\Desktop\WORKING\13052015_DMCLand_ThanhTri_Việt_gửi _Thành\BaoCaoDong\BaoCaoDong\obj\Debug\BaoCaoDong.pdb

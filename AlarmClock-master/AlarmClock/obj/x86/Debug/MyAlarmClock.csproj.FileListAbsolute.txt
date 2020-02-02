@@ -1,0 +1,29 @@
+S:\Project C#\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+S:\Project C#\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+S:\Project C#\AlarmClock\AlarmClock\bin\Debug\Interop.WMPLib.dll
+S:\Project C#\AlarmClock\AlarmClock\bin\Debug\AxInterop.WMPLib.dll
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\Interop.WMPLib.dll
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\AxInterop.WMPLib.dll
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\MyAlarmClock.csproj.ResolveComReference.cache
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\AlarmClock.AlarmClock.resources
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\AlarmClock.Properties.Resources.resources
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\AlarmClock.ThoiGian.resources
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\AlarmClock.exe
+S:\Project C#\AlarmClock\AlarmClock\obj\x86\Debug\AlarmClock.pdb
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\MyAlarmClock.csproj.ResolveComReference.cache
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\AlarmClock.exe
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\AlarmClock.pdb
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\AlarmClock.AlarmClock.resources
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\AlarmClock.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\AlarmClock.ThoiGian.resources
+C:\Users\Administrator\Dropbox\AlarmClock - Source\AlarmClock\obj\x86\Debug\MyAlarmClock.csproj.GenerateResource.Cache

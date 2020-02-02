@@ -1,0 +1,3 @@
+Phần quản lý hồ sơ sẽ yêu cầu nhập mật khẩu:
+1 để sử dụng các chức năng quản lý hồ sơ.
+10 để hiển thị thêm chức năng xóa hồ sơ.

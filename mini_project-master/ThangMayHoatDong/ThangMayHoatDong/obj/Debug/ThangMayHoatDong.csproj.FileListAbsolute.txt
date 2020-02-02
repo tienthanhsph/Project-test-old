@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\bin\Debug\ThangMayHoatDong.exe.config
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.frmHoatDong.resources
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.frmKhoiTao.resources
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\bin\Debug\ThangMayHoatDong.exe
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\bin\Debug\ThangMayHoatDong.pdb
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.exe
+C:\Users\Administrator\Desktop\ThangMayHoatDong\ThangMayHoatDong\obj\Debug\ThangMayHoatDong.pdb

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="26b51a887bab4a84b40d18ae8ad83cde" Name="Diagram1">
+        <EntityTypeShape EntityType="DMCWebModel.DVHCtam" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblCayLauNam" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblCayLauNamDuBi" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblChu" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblChuDangKyBienDong" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblChuDangKyBienDongDuBi" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblChuDuBi" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblChuHoSo" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblChuHoSoDuBi" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblDoanhNghiep" Width="1.5" PointX="4.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblDonXinDangKyBienDongDuBi" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblHoSo" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblHoSoBienDong" Width="1.5" PointX="8.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblHoSoKeKhai" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblHoSoKeKhaiDuBi" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblHoSoKeKhaiDuocChapNhan" Width="1.5" PointX="10.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblLoaiDeNghiDangKyCapGCN" Width="1.5" PointX="10.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblLoaiNhaO_CongTrinh" Width="1.5" PointX="2.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblNguonGocSuDung" Width="1.5" PointX="10.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblRungSanXuatLaRungTrong" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblRungSanXuatLaRungTrongDuBi" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThongTinNhaO" Width="1.5" PointX="12.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThongTinNhaODuBi" Width="1.5" PointX="12.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThongTinTaiSanGanLienVoiDatTrongBienDong" Width="1.5" PointX="4.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThongTinTaiSanGanLienVoiDatTrongBienDongDuBi" Width="1.5" PointX="6.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDat" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatDeNghiHopThuaTrongBienDong" Width="1.5" PointX="14.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatDeNghiHopThuaTrongBienDongTheoDon" Width="1.5" PointX="8.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatDeNghiTachThuaTrongBienDong" Width="1.5" PointX="14.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatDeNghiTachThuaTrongBienDongTheoDon" Width="1.5" PointX="14.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatDuBi" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatThayDoiTrongBienDong" Width="1.5" PointX="0.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblThuaDatThayDoiTrongBienDongDuBi" Width="1.5" PointX="16.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblXacNhanCapCoSo" Width="1.5" PointX="16.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblXacNhanCapCoSoVeBienDong" Width="1.5" PointX="10.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblXacNhanCoQuanDangKyDatDai" Width="1.5" PointX="16.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblYKienCoQuanDangKyDatDaiVeBienDong" Width="1.5" PointX="2.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblYKienCoQuanTaiNguyenVaMoiTruongVeBienDong" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DMCWebModel.tblDonXinDangKyBienDong" Width="1.5" PointX="7.375" PointY="18.75" />
+        <EntityTypeShape EntityType="DMCWebModel.tblUser" Width="1.5" PointX="17.375" PointY="18.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

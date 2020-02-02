@@ -1,0 +1,9 @@
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\bin\Debug\WORK_WITH_PGN_FILES.exe.config
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\obj\Debug\WORK_WITH_PGN_FILES.csprojResolveAssemblyReference.cache
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\obj\Debug\WORK_WITH_PGN_FILES.Properties.Resources.resources
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\obj\Debug\WORK_WITH_PGN_FILES.csproj.GenerateResource.Cache
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\bin\Debug\WORK_WITH_PGN_FILES.exe
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\bin\Debug\WORK_WITH_PGN_FILES.pdb
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\obj\Debug\WORK_WITH_PGN_FILES.exe
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\obj\Debug\WORK_WITH_PGN_FILES.pdb
+c:\users\tienthanh.sph\documents\visual studio 2013\Projects\WORK_WITH_PGN_FILES\WORK_WITH_PGN_FILES\obj\Debug\WORK_WITH_PGN_FILES.Form1.resources

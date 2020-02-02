@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="DMCWeb.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+	<title>Quản trị</title>
+    <webopt:bundlereference runat="server" path="~/Content/style.css" />
+     <webopt:bundlereference runat="server" path="~/Content/bootstrap.css" />
+</head>
+<body>
+    <form id="form2" runat="server">
+	<header>
+		<div class="account" runat="server" id="DangDangNhap">
+		<ul>
+			<li>
+				<a href="~/Account/ThongTinTaiKhoan.aspx?Username=<%# lblUsername.Text %>"><span class="glyphicon glyphicon-user"> </span> <asp:Label ID="lblUsername" runat="server" Text=""></asp:Label></a>
+				<ul>
+					<li><a runat="server"  href="~/TrangChuNghiepVu.aspx">Nghiệp vụ</a></li>
+					<li><a runat="server"  href="~/TrangChuKeKhai.aspx">Kê khai</a></li>
+					<li><a runat="server"  href="~/Account/DangXuat.aspx"><span class="glyphicon glyphicon-log-out"></span> Đăng xuất</a></li>
+				</ul>
+			</li>
+		</ul>			
+		</div>
+
+		<div class="nav">
+			<ul>
+				<li><a href="#">Báo cáo  &darr;</a>
+					<ul>
+						<li><a runat="server"  href="#">Hồ sơ cấp GCN</a></li>
+						<li><a runat="server"  href="#">Hô sơ biến động</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Quản lý tài khoản  &darr; </a>
+					<ul>
+						<li><a runat="server"  href="#">Thêm tài khoản</a></li>
+						<li><a runat="server"  href="#">Xem tài khoản</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><!-- end div nav	-->
+	</header>
+
+
+	<div id="content">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	</div>
+
+	<footer>
+		&copy; Nguyễn Tiến Thành.
+	</footer>
+</form>
+</body>
+</hmtl>

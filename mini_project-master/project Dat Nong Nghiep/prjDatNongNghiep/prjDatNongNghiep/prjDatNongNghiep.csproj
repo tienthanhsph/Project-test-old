@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E352795-8F1B-4EF0-A3DA-BD0DA131232A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prjDatNongNghiep</RootNamespace>
+    <AssemblyName>prjDatNongNghiep</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsConfig.cs" />
+    <Compile Include="clsDatabase.cs" />
+    <Compile Include="ctrlCapGCNDatNN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlCapGCNDatNN.Designer.cs">
+      <DependentUpon>ctrlCapGCNDatNN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlKeKhai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlKeKhai.Designer.cs">
+      <DependentUpon>ctrlKeKhai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlXetGiaoDatNN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlXetGiaoDatNN.Designer.cs">
+      <DependentUpon>ctrlXetGiaoDatNN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlXetQSDD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlXetQSDD.Designer.cs">
+      <DependentUpon>ctrlXetQSDD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCanBo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCanBo.Designer.cs">
+      <DependentUpon>frmCanBo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDonViHanhChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDonViHanhChinh.Designer.cs">
+      <DependentUpon>frmDonViHanhChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiaDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiaDinh.Designer.cs">
+      <DependentUpon>frmGiaDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHOSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHOSO.Designer.cs">
+      <DependentUpon>frmHOSO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNopTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNopTien.Designer.cs">
+      <DependentUpon>frmNopTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuanLyHoSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuanLyHoSo.Designer.cs">
+      <DependentUpon>frmQuanLyHoSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimKiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimKiem.Designer.cs">
+      <DependentUpon>frmTimKiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ctrlCapGCNDatNN.resx">
+      <DependentUpon>ctrlCapGCNDatNN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlKeKhai.resx">
+      <DependentUpon>ctrlKeKhai.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlXetGiaoDatNN.resx">
+      <DependentUpon>ctrlXetGiaoDatNN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlXetQSDD.resx">
+      <DependentUpon>ctrlXetQSDD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCanBo.resx">
+      <DependentUpon>frmCanBo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDonViHanhChinh.resx">
+      <DependentUpon>frmDonViHanhChinh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiaDinh.resx">
+      <DependentUpon>frmGiaDinh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHOSO.resx">
+      <DependentUpon>frmHOSO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNopTien.resx">
+      <DependentUpon>frmNopTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuanLyHoSo.resx">
+      <DependentUpon>frmQuanLyHoSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimKiem.resx">
+      <DependentUpon>frmTimKiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

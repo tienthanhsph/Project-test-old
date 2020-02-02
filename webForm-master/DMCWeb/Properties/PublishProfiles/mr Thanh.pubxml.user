@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\dmcpublic</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/DangKy.aspx">
+      <publishTime>10/17/2015 08:58:47</publishTime>
+    </File>
+    <File Include="Account/DangNhap.aspx">
+      <publishTime>10/17/2015 08:58:52</publishTime>
+    </File>
+    <File Include="Account/DangXuat.aspx">
+      <publishTime>10/16/2015 10:58:18</publishTime>
+    </File>
+    <File Include="Account/SuaTaiKhoan.aspx">
+      <publishTime>10/16/2015 10:07:03</publishTime>
+    </File>
+    <File Include="Account/ThongTinTaiKhoan.aspx">
+      <publishTime>10/16/2015 14:51:17</publishTime>
+    </File>
+    <File Include="Admin.Master">
+      <publishTime>10/16/2015 11:03:47</publishTime>
+    </File>
+    <File Include="Basic.Master">
+      <publishTime>10/16/2015 15:20:30</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/10/2015 10:09:40</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/10/2015 10:09:40</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>02/10/2015 10:09:40</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>02/10/2015 10:09:40</publishTime>
+    </File>
+    <File Include="bin/DMCWeb.dll">
+      <publishTime>10/17/2015 09:12:08</publishTime>
+    </File>
+    <File Include="bin/DMCWeb.pdb">
+      <publishTime>10/17/2015 09:12:08</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>02/10/2015 10:09:40</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>02/10/2015 10:09:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.EntityDataSource.dll">
+      <publishTime>03/10/2015 13:26:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>02/10/2015 10:09:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/10/2015 10:09:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/10/2015 10:09:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/10/2015 10:06:10</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/10/2015 10:09:43</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>02/10/2015 10:09:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/10/2015 10:09:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>02/10/2015 10:06:04</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>02/10/2015 10:09:44</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>10/16/2015 09:59:05</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/17/2015 09:10:57</publishTime>
+    </File>
+    <File Include="Excute.Master">
+      <publishTime>10/16/2015 11:03:47</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/10/2015 10:11:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/10/2015 10:11:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/10/2015 10:11:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/10/2015 10:11:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/10/2015 10:11:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Models/CSDL.edmx.diagram">
+      <publishTime>10/16/2015 10:25:24</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/DonDangKyBienDong.aspx">
+      <publishTime>10/16/2015 14:57:24</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/Tach_HopThua.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucDangKyBienDongDatDat_TaiSan.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucDeNghiCapLai.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucDeNghiTachThua_HopThua.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucGuiNhanHoSo.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucNhapThongTinChu.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucThongTinTaiSanGanLienVoiDatDaCapGCNCoThayDoi.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyBienDong/ucThongTinThuaDatCoThayDoiDoDoDacLai.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="NguoiDan/DangKyCapGCN.aspx">
+      <publishTime>10/16/2015 14:55:34</publishTime>
+    </File>
+    <File Include="NguoiDan/TimKiemHoSoDuBi.aspx">
+      <publishTime>10/16/2015 08:51:38</publishTime>
+    </File>
+    <File Include="NguoiDan/TimKiemHoSoDuBi_SearchTab.aspx">
+      <publishTime>10/16/2015 15:25:15</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/10/2015 10:11:56</publishTime>
+    </File>
+    <File Include="Readme.txt">
+      <publishTime>09/10/2015 15:44:40</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="TienIch/TaoTaiKhoanCanBo.aspx">
+      <publishTime>10/16/2015 08:54:44</publishTime>
+    </File>
+    <File Include="TienIch/ThongKeTinhHinhLamViecCuaHeThong.aspx">
+      <publishTime>10/16/2015 08:54:44</publishTime>
+    </File>
+    <File Include="TienIch/TimKiemNguoi.aspx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="TienIch/XoaNhungHoSoKeKhaiKhongCoHieuLuc.aspx">
+      <publishTime>10/16/2015 08:54:44</publishTime>
+    </File>
+    <File Include="TrangChuAdmin.aspx">
+      <publishTime>10/16/2015 08:18:03</publishTime>
+    </File>
+    <File Include="TrangChuKeKhai.aspx">
+      <publishTime>10/16/2015 11:26:08</publishTime>
+    </File>
+    <File Include="TrangChuNghiepVu.aspx">
+      <publishTime>10/16/2015 08:18:03</publishTime>
+    </File>
+    <File Include="TuDien/TuDienLoaiDeNghiDangKyCapGCN.aspx">
+      <publishTime>10/16/2015 08:54:44</publishTime>
+    </File>
+    <File Include="TuDien/TuDienLoaiNguonGocSuDung.aspx">
+      <publishTime>10/16/2015 08:54:44</publishTime>
+    </File>
+    <File Include="TuDien/TuDienLoaiNhaOCongTrinh.aspx">
+      <publishTime>10/16/2015 08:54:44</publishTime>
+    </File>
+    <File Include="VanPhong/HoanThanh.aspx">
+      <publishTime>10/16/2015 08:54:42</publishTime>
+    </File>
+    <File Include="VanPhong/TiepNhanDon/BaoCaoHoSoBienDongMoi.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/TiepNhanDon/BaoCaoHoSoDangKyMoi.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/TiepNhanDon/ChapNhanHoSo.aspx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="VanPhong/TimKiemHoSo.aspx">
+      <publishTime>10/16/2015 08:54:42</publishTime>
+    </File>
+    <File Include="VanPhong/TimKiemHoSoBienDong.aspx">
+      <publishTime>10/16/2015 08:54:42</publishTime>
+    </File>
+    <File Include="VanPhong/TongHop/DanhSachHoSoDangKyBienDong.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/TongHop/DanhSachHoSoDangKyCapGCN.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyBienDong/XacNhanCapCoSo_BienDong.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyBienDong/YKienCoQuanDangKyDatDai.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyBienDong/YKienCoQuanTaiNguyenVaMoiTruong.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyHoSo/HoSo.aspx">
+      <publishTime>10/16/2015 09:12:40</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyHoSo/HoSoDangKyCapGCN.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyHoSo/XacNhanCapCoSo.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="VanPhong/XuLyHoSo/XacNhanCuaCoQuanDangKyDatDai.aspx">
+      <publishTime>10/16/2015 08:54:43</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>09/10/2015 10:11:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/17/2015 09:12:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

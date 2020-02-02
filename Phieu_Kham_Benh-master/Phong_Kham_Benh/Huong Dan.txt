@@ -1,0 +1,8 @@
+file Backup CSDL trong thư mục Database.
+
+Để chạy được chương trình cần cấu hình lại kết nối trong file: "\DB\clsDatabase.cs", 
+Tìm đến : string strconnect = "Server=TIENTHANH-PC;Database=phong_kham_benh;User Id=sa;Password=dmc3star;" thay đổi thông tin.
+
+Tài khoản	:admin	nhanvien	benhnhan
+Password	:1		1			1
+quyền		:1		2			3

@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14C65CDC-363B-44A7-AA70-C9E0E7ED15EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BaoCaoDong</RootNamespace>
+    <AssemblyName>BaoCaoDong</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CbBoxItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CbBoxItems.designer.cs">
+      <DependentUpon>CbBoxItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChonCot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChonCot.designer.cs">
+      <DependentUpon>ChonCot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChonCotBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChonCotBD.designer.cs">
+      <DependentUpon>ChonCotBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsDatabase.cs" />
+    <Compile Include="DanhSachBienDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSachBienDong.designer.cs">
+      <DependentUpon>DanhSachBienDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditColumns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditColumns.designer.cs">
+      <DependentUpon>EditColumns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GanKieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GanKieu.designer.cs">
+      <DependentUpon>GanKieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CbBoxItems.resx">
+      <DependentUpon>CbBoxItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChonCot.resx">
+      <DependentUpon>ChonCot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChonCotBD.resx">
+      <DependentUpon>ChonCotBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhSachBienDong.resx">
+      <DependentUpon>DanhSachBienDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditColumns.resx">
+      <DependentUpon>EditColumns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GanKieu.resx">
+      <DependentUpon>GanKieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyThongSo.resx">
+      <DependentUpon>QuanLyThongSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Script.resx">
+      <DependentUpon>Script.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QuanLyThongSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyThongSo.Designer.cs">
+      <DependentUpon>QuanLyThongSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Script.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script.Designer.cs">
+      <DependentUpon>Script.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

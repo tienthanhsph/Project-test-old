@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\bin\Debug\Backup_n_Restore.exe.config
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\bin\Debug\Backup_n_Restore.exe
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\bin\Debug\Backup_n_Restore.pdb
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.FormMain.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.exe
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.pdb
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.CtrlAccept.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.CtrlChange.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.CtrlContent.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.CtrlHistory.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.CtrlSearch.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.frmGiaDinh.resources
+C:\Users\Administrator\Desktop\Backup_n_Restore\Backup_n_Restore\obj\Debug\Backup_n_Restore.frmTemplate.resources

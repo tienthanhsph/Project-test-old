@@ -1,0 +1,9 @@
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\bin\Debug\MultiPanel.exe.config
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\obj\Debug\MultiPanel.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\obj\Debug\MultiPanel.Form1.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\obj\Debug\MultiPanel.Properties.Resources.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\obj\Debug\MultiPanel.csproj.GenerateResource.Cache
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\bin\Debug\MultiPanel.exe
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\bin\Debug\MultiPanel.pdb
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\obj\Debug\MultiPanel.exe
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\MultiPanel\obj\Debug\MultiPanel.pdb

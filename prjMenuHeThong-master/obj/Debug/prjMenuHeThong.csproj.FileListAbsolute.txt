@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\bin\Debug\prjMenuHeThong.exe
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\bin\Debug\prjMenuHeThong.pdb
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\prjMenuHeThong.Form1.resources
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\prjMenuHeThong.Menu.resources
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\prjMenuHeThong.Properties.Resources.resources
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\prjMenuHeThong.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\prjMenuHeThong.exe
+C:\Users\Admin\Desktop\ChinhSuaMenuHeThong\prjMenuHeThong\obj\Debug\prjMenuHeThong.pdb

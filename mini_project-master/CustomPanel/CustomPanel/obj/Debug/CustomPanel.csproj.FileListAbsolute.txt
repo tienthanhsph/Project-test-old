@@ -1,0 +1,18 @@
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\bin\Debug\CustomPanel.exe.config
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\bin\Debug\CustomPanel.exe
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\bin\Debug\CustomPanel.pdb
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.csprojResolveAssemblyReference.cache
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.Properties.Resources.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.csproj.GenerateResource.Cache
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.exe
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.pdb
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.UCRight.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.frmMain.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.UCBottom1.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.UCBottom2.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.UCBottom3.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.UCLeft.resources
+C:\Users\HUONG LAN\Desktop\CustomPanel\CustomPanel\obj\Debug\CustomPanel.UCMain.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\CustomPanel\bin\Debug\CustomPanel.exe.config
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\CustomPanel\obj\Debug\CustomPanel.exe
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\CustomPanel\CustomPanel\obj\Debug\CustomPanel.pdb

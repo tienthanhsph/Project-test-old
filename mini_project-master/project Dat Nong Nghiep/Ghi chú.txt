@@ -1,0 +1,2 @@
+Cập nhật đến ngày 11/8/2015, tạm xong chức năng nhập liệu cơ bản.
+còn chức năng và yêu cầu khác thì để xem khi nó hợp lý rồi thì hoàn thiện dần.

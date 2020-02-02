@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DMCWebModelStoreContainer" CdmEntityContainer="DMCWebEntities">
+    <EntitySetMapping Name="DVHCtams">
+      <EntityTypeMapping TypeName="DMCWebModel.DVHCtam">
+        <MappingFragment StoreEntitySet="DVHCtam">
+          <ScalarProperty Name="MaDonViHanhChinh" ColumnName="MaDonViHanhChinh" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCayLauNams">
+      <EntityTypeMapping TypeName="DMCWebModel.tblCayLauNam">
+        <MappingFragment StoreEntitySet="tblCayLauNam">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="LoaiCayChuYeu" ColumnName="LoaiCayChuYeu" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="SoHuuChung" ColumnName="SoHuuChung" />
+          <ScalarProperty Name="SoHuuRieng" ColumnName="SoHuuRieng" />
+          <ScalarProperty Name="ThoiHanSoHuu" ColumnName="ThoiHanSoHuu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCayLauNamDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblCayLauNamDuBi">
+        <MappingFragment StoreEntitySet="tblCayLauNamDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="LoaiCayChuYeu" ColumnName="LoaiCayChuYeu" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="SoHuuChung" ColumnName="SoHuuChung" />
+          <ScalarProperty Name="SoHuuRieng" ColumnName="SoHuuRieng" />
+          <ScalarProperty Name="ThoiHanSoHuu" ColumnName="ThoiHanSoHuu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChus">
+      <EntityTypeMapping TypeName="DMCWebModel.tblChu">
+        <MappingFragment StoreEntitySet="tblChu">
+          <ScalarProperty Name="MaChu" ColumnName="MaChu" />
+          <ScalarProperty Name="DanhXung" ColumnName="DanhXung" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NamSinh" ColumnName="NamSinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DinhDanh" ColumnName="DinhDanh" />
+          <ScalarProperty Name="SoDinhDanh" ColumnName="SoDinhDanh" />
+          <ScalarProperty Name="NoiCap" ColumnName="NoiCap" />
+          <ScalarProperty Name="NgayCap" ColumnName="NgayCap" />
+          <ScalarProperty Name="QuocTich" ColumnName="QuocTich" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChuDangKyBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblChuDangKyBienDong">
+        <MappingFragment StoreEntitySet="tblChuDangKyBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaChu" ColumnName="MaChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChuDangKyBienDongDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblChuDangKyBienDongDuBi">
+        <MappingFragment StoreEntitySet="tblChuDangKyBienDongDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaChu" ColumnName="MaChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChuDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblChuDuBi">
+        <MappingFragment StoreEntitySet="tblChuDuBi">
+          <ScalarProperty Name="MaChu" ColumnName="MaChu" />
+          <ScalarProperty Name="DanhXung" ColumnName="DanhXung" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NamSinh" ColumnName="NamSinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DinhDanh" ColumnName="DinhDanh" />
+          <ScalarProperty Name="SoDinhDanh" ColumnName="SoDinhDanh" />
+          <ScalarProperty Name="NoiCap" ColumnName="NoiCap" />
+          <ScalarProperty Name="NgayCap" ColumnName="NgayCap" />
+          <ScalarProperty Name="QuocTich" ColumnName="QuocTich" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChuHoSoes">
+      <EntityTypeMapping TypeName="DMCWebModel.tblChuHoSo">
+        <MappingFragment StoreEntitySet="tblChuHoSo">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="MaChu" ColumnName="MaChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChuHoSoDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblChuHoSoDuBi">
+        <MappingFragment StoreEntitySet="tblChuHoSoDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="MaChu" ColumnName="MaChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDoanhNghieps">
+      <EntityTypeMapping TypeName="DMCWebModel.tblDoanhNghiep">
+        <MappingFragment StoreEntitySet="tblDoanhNghiep">
+          <ScalarProperty Name="MaToChuc" ColumnName="MaToChuc" />
+          <ScalarProperty Name="TenToChuc" ColumnName="TenToChuc" />
+          <ScalarProperty Name="QuyetDinhThanhLap" ColumnName="QuyetDinhThanhLap" />
+          <ScalarProperty Name="NgayQuyetDinh" ColumnName="NgayQuyetDinh" />
+          <ScalarProperty Name="CoQuanQuyetDinh" ColumnName="CoQuanQuyetDinh" />
+          <ScalarProperty Name="GiayDangKyKinhDoanhSo" ColumnName="GiayDangKyKinhDoanhSo" />
+          <ScalarProperty Name="NgayBatDauCoHieuLuc" ColumnName="NgayBatDauCoHieuLuc" />
+          <ScalarProperty Name="CoQuanKyGiayPhep" ColumnName="CoQuanKyGiayPhep" />
+          <ScalarProperty Name="GiayPhepDauTuSo" ColumnName="GiayPhepDauTuSo" />
+          <ScalarProperty Name="NgayGiayPhepCoHieuLuc" ColumnName="NgayGiayPhepCoHieuLuc" />
+          <ScalarProperty Name="CoQuanCapGIayPhep" ColumnName="CoQuanCapGIayPhep" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDonXinDangKyBienDongDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblDonXinDangKyBienDongDuBi">
+        <MappingFragment StoreEntitySet="tblDonXinDangKyBienDongDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TieuDeDon" ColumnName="TieuDeDon" />
+          <ScalarProperty Name="NguoiVietDon" ColumnName="NguoiVietDon" />
+          <ScalarProperty Name="NgayVietDon" ColumnName="NgayVietDon" />
+          <ScalarProperty Name="SoVaoSoCapGCN" ColumnName="SoVaoSoCapGCN" />
+          <ScalarProperty Name="SoPhatHanhGCN" ColumnName="SoPhatHanhGCN" />
+          <ScalarProperty Name="NgayCapGCN" ColumnName="NgayCapGCN" />
+          <ScalarProperty Name="BienDongVe" ColumnName="BienDongVe" />
+          <ScalarProperty Name="NoiDungGhiTrenGCNTruocKhiBienDong" ColumnName="NoiDungGhiTrenGCNTruocKhiBienDong" />
+          <ScalarProperty Name="NoiDungSauKhiBienDong" ColumnName="NoiDungSauKhiBienDong" />
+          <ScalarProperty Name="LyDoBienDong" ColumnName="LyDoBienDong" />
+          <ScalarProperty Name="TinhHinhThucHienNghiaVuTaiChinh" ColumnName="TinhHinhThucHienNghiaVuTaiChinh" />
+          <ScalarProperty Name="GiayToKemTheo" ColumnName="GiayToKemTheo" />
+          <ScalarProperty Name="LoaiBienDong" ColumnName="LoaiBienDong" />
+          <ScalarProperty Name="LoaiDoiTuongApDung" ColumnName="LoaiDoiTuongApDung" />
+          <ScalarProperty Name="DonViHanhChinh" ColumnName="DonViHanhChinh" />
+          <ScalarProperty Name="NgayTaoDon" ColumnName="NgayTaoDon" />
+          <ScalarProperty Name="DaGuiDon" ColumnName="DaGuiDon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHoSoes">
+      <EntityTypeMapping TypeName="DMCWebModel.tblHoSo">
+        <MappingFragment StoreEntitySet="tblHoSo">
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="TongSoThua" ColumnName="TongSoThua" />
+          <ScalarProperty Name="LoaiDoiTuong" ColumnName="LoaiDoiTuong" />
+          <ScalarProperty Name="DonViHanhChinh" ColumnName="DonViHanhChinh" />
+          <ScalarProperty Name="TrangThaiHoSoCapGCN" ColumnName="TrangThaiHoSoCapGCN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHoSoBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblHoSoBienDong">
+        <MappingFragment StoreEntitySet="tblHoSoBienDong">
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="NgayXongDangKyBienDong" ColumnName="NgayXongDangKyBienDong" />
+          <ScalarProperty Name="DaXongBienDong" ColumnName="DaXongBienDong" />
+          <ScalarProperty Name="LoaiBienDong" ColumnName="LoaiBienDong" />
+          <ScalarProperty Name="LoaiDoiTuongApDung" ColumnName="LoaiDoiTuongApDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHoSoKeKhais">
+      <EntityTypeMapping TypeName="DMCWebModel.tblHoSoKeKhai">
+        <MappingFragment StoreEntitySet="tblHoSoKeKhai">
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="KinhGuiCoQuanChucNang" ColumnName="KinhGuiCoQuanChucNang" />
+          <ScalarProperty Name="NgayNhanHoSo" ColumnName="NgayNhanHoSo" />
+          <ScalarProperty Name="NguoiNhanHoSo" ColumnName="NguoiNhanHoSo" />
+          <ScalarProperty Name="SoTiepNhan" ColumnName="SoTiepNhan" />
+          <ScalarProperty Name="Quyen" ColumnName="Quyen" />
+          <ScalarProperty Name="NguoiVietDon" ColumnName="NguoiVietDon" />
+          <ScalarProperty Name="DonViHanhChinh" ColumnName="DonViHanhChinh" />
+          <ScalarProperty Name="GiayToKemTheo" ColumnName="GiayToKemTheo" />
+          <ScalarProperty Name="NghiaVuTaiChinh" ColumnName="NghiaVuTaiChinh" />
+          <ScalarProperty Name="DeNghiKhac" ColumnName="DeNghiKhac" />
+          <ScalarProperty Name="SoDienThoaiLienHe" ColumnName="SoDienThoaiLienHe" />
+          <ScalarProperty Name="DiaChiMail" ColumnName="DiaChiMail" />
+          <ScalarProperty Name="MaLoaiDeNghi" ColumnName="MaLoaiDeNghi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHoSoKeKhaiDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblHoSoKeKhaiDuBi">
+        <MappingFragment StoreEntitySet="tblHoSoKeKhaiDuBi">
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="KinhGuiCoQuanChucNang" ColumnName="KinhGuiCoQuanChucNang" />
+          <ScalarProperty Name="NgayNhanHoSo" ColumnName="NgayNhanHoSo" />
+          <ScalarProperty Name="NguoiNhanHoSo" ColumnName="NguoiNhanHoSo" />
+          <ScalarProperty Name="SoTiepNhan" ColumnName="SoTiepNhan" />
+          <ScalarProperty Name="Quyen" ColumnName="Quyen" />
+          <ScalarProperty Name="NguoiVietDon" ColumnName="NguoiVietDon" />
+          <ScalarProperty Name="DonViHanhChinh" ColumnName="DonViHanhChinh" />
+          <ScalarProperty Name="GiayToKemTheo" ColumnName="GiayToKemTheo" />
+          <ScalarProperty Name="NghiaVuTaiChinh" ColumnName="NghiaVuTaiChinh" />
+          <ScalarProperty Name="DeNghiKhac" ColumnName="DeNghiKhac" />
+          <ScalarProperty Name="SoDienThoaiLienHe" ColumnName="SoDienThoaiLienHe" />
+          <ScalarProperty Name="DiaChiMail" ColumnName="DiaChiMail" />
+          <ScalarProperty Name="MaLoaiDeNghi" ColumnName="MaLoaiDeNghi" />
+          <ScalarProperty Name="MaLoaiDoiTuong" ColumnName="MaLoaiDoiTuong" />
+          <ScalarProperty Name="TongSoThuaDat" ColumnName="TongSoThuaDat" />
+          <ScalarProperty Name="DaGuiDi" ColumnName="DaGuiDi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHoSoKeKhaiDuocChapNhans">
+      <EntityTypeMapping TypeName="DMCWebModel.tblHoSoKeKhaiDuocChapNhan">
+        <MappingFragment StoreEntitySet="tblHoSoKeKhaiDuocChapNhan">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="MaHoSoKeKhaiDuBi" ColumnName="MaHoSoKeKhaiDuBi" />
+          <ScalarProperty Name="NgayThucHien" ColumnName="NgayThucHien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLoaiDeNghiDangKyCapGCNs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblLoaiDeNghiDangKyCapGCN">
+        <MappingFragment StoreEntitySet="tblLoaiDeNghiDangKyCapGCN">
+          <ScalarProperty Name="MaLoaiDeNghi" ColumnName="MaLoaiDeNghi" />
+          <ScalarProperty Name="TenDeNghi" ColumnName="TenDeNghi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLoaiNhaO_CongTrinh">
+      <EntityTypeMapping TypeName="DMCWebModel.tblLoaiNhaO_CongTrinh">
+        <MappingFragment StoreEntitySet="tblLoaiNhaO_CongTrinh">
+          <ScalarProperty Name="LoaiNhaO" ColumnName="LoaiNhaO" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblNguonGocSuDungs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblNguonGocSuDung">
+        <MappingFragment StoreEntitySet="tblNguonGocSuDung">
+          <ScalarProperty Name="LoaiNguonGocSuDung" ColumnName="LoaiNguonGocSuDung" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRungSanXuatLaRungTrongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblRungSanXuatLaRungTrong">
+        <MappingFragment StoreEntitySet="tblRungSanXuatLaRungTrong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="LoaiCayChuYeu" ColumnName="LoaiCayChuYeu" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="LoaiNguonGocTaoLap" ColumnName="LoaiNguonGocTaoLap" />
+          <ScalarProperty Name="SoHuuChung" ColumnName="SoHuuChung" />
+          <ScalarProperty Name="SoHuuRieng" ColumnName="SoHuuRieng" />
+          <ScalarProperty Name="ThoiHanSoHuu" ColumnName="ThoiHanSoHuu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRungSanXuatLaRungTrongDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblRungSanXuatLaRungTrongDuBi">
+        <MappingFragment StoreEntitySet="tblRungSanXuatLaRungTrongDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="LoaiCayChuYeu" ColumnName="LoaiCayChuYeu" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="LoaiNguonGocTaoLap" ColumnName="LoaiNguonGocTaoLap" />
+          <ScalarProperty Name="SoHuuChung" ColumnName="SoHuuChung" />
+          <ScalarProperty Name="SoHuuRieng" ColumnName="SoHuuRieng" />
+          <ScalarProperty Name="ThoiHanSoHuu" ColumnName="ThoiHanSoHuu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThongTinNhaOs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThongTinNhaO">
+        <MappingFragment StoreEntitySet="tblThongTinNhaO">
+          <ScalarProperty Name="MaNhaO" ColumnName="MaNhaO" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="LoaiNhaO" ColumnName="LoaiNhaO" />
+          <ScalarProperty Name="DienTichXayDung" ColumnName="DienTichXayDung" />
+          <ScalarProperty Name="DienTichSan" ColumnName="DienTichSan" />
+          <ScalarProperty Name="SoHuuChung" ColumnName="SoHuuChung" />
+          <ScalarProperty Name="SoHuuRieng" ColumnName="SoHuuRieng" />
+          <ScalarProperty Name="KetCau" ColumnName="KetCau" />
+          <ScalarProperty Name="SoTang" ColumnName="SoTang" />
+          <ScalarProperty Name="CoHanCheThoiHanSoHuu" ColumnName="CoHanCheThoiHanSoHuu" />
+          <ScalarProperty Name="ThoiHanSoHuu" ColumnName="ThoiHanSoHuu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThongTinNhaODuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThongTinNhaODuBi">
+        <MappingFragment StoreEntitySet="tblThongTinNhaODuBi">
+          <ScalarProperty Name="MaNhaO" ColumnName="MaNhaO" />
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="LoaiNhaO" ColumnName="LoaiNhaO" />
+          <ScalarProperty Name="DienTichXayDung" ColumnName="DienTichXayDung" />
+          <ScalarProperty Name="DienTichSan" ColumnName="DienTichSan" />
+          <ScalarProperty Name="SoHuuChung" ColumnName="SoHuuChung" />
+          <ScalarProperty Name="SoHuuRieng" ColumnName="SoHuuRieng" />
+          <ScalarProperty Name="KetCau" ColumnName="KetCau" />
+          <ScalarProperty Name="SoTang" ColumnName="SoTang" />
+          <ScalarProperty Name="CoHanCheThoiHanSoHuu" ColumnName="CoHanCheThoiHanSoHuu" />
+          <ScalarProperty Name="ThoiHanSoHuu" ColumnName="ThoiHanSoHuu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThongTinTaiSanGanLienVoiDatTrongBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThongTinTaiSanGanLienVoiDatTrongBienDong">
+        <MappingFragment StoreEntitySet="tblThongTinTaiSanGanLienVoiDatTrongBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="LoaiTaiSan" ColumnName="LoaiTaiSan" />
+          <ScalarProperty Name="DienTichXayDung" ColumnName="DienTichXayDung" />
+          <ScalarProperty Name="DienTichSan" ColumnName="DienTichSan" />
+          <ScalarProperty Name="NoiDungThayDoi" ColumnName="NoiDungThayDoi" />
+          <ScalarProperty Name="LoaiTaiSanMoi" ColumnName="LoaiTaiSanMoi" />
+          <ScalarProperty Name="DienTichXayDungMoi" ColumnName="DienTichXayDungMoi" />
+          <ScalarProperty Name="DienTichSanMoi" ColumnName="DienTichSanMoi" />
+          <ScalarProperty Name="NoiDungThayDoiMoi" ColumnName="NoiDungThayDoiMoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThongTinTaiSanGanLienVoiDatTrongBienDongDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThongTinTaiSanGanLienVoiDatTrongBienDongDuBi">
+        <MappingFragment StoreEntitySet="tblThongTinTaiSanGanLienVoiDatTrongBienDongDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="LoaiTaiSan" ColumnName="LoaiTaiSan" />
+          <ScalarProperty Name="DienTichXayDung" ColumnName="DienTichXayDung" />
+          <ScalarProperty Name="DienTichSan" ColumnName="DienTichSan" />
+          <ScalarProperty Name="NoiDungThayDoi" ColumnName="NoiDungThayDoi" />
+          <ScalarProperty Name="LoaiTaiSanMoi" ColumnName="LoaiTaiSanMoi" />
+          <ScalarProperty Name="DienTichXayDungMoi" ColumnName="DienTichXayDungMoi" />
+          <ScalarProperty Name="DienTichSanMoi" ColumnName="DienTichSanMoi" />
+          <ScalarProperty Name="NoiDungThayDoiMoi" ColumnName="NoiDungThayDoiMoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDats">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDat">
+        <MappingFragment StoreEntitySet="tblThuaDat">
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="SuDungChung" ColumnName="SuDungChung" />
+          <ScalarProperty Name="SuDungRieng" ColumnName="SuDungRieng" />
+          <ScalarProperty Name="MucDichSuDung" ColumnName="MucDichSuDung" />
+          <ScalarProperty Name="ThoiHanSuDung" ColumnName="ThoiHanSuDung" />
+          <ScalarProperty Name="NgayBatDauSuDung" ColumnName="NgayBatDauSuDung" />
+          <ScalarProperty Name="LoaiNguonGocSuDung" ColumnName="LoaiNguonGocSuDung" />
+          <ScalarProperty Name="CoHanCheSuDung" ColumnName="CoHanCheSuDung" />
+          <ScalarProperty Name="NoiDungHanCheSuDung" ColumnName="NoiDungHanCheSuDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatDeNghiHopThuaTrongBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatDeNghiHopThuaTrongBienDong">
+        <MappingFragment StoreEntitySet="tblThuaDatDeNghiHopThuaTrongBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SoPhatHanhGCN" ColumnName="SoPhatHanhGCN" />
+          <ScalarProperty Name="SoVaoSoCapGCN" ColumnName="SoVaoSoCapGCN" />
+          <ScalarProperty Name="NgayCapGCN" ColumnName="NgayCapGCN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatDeNghiHopThuaTrongBienDongTheoDons">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatDeNghiHopThuaTrongBienDongTheoDon">
+        <MappingFragment StoreEntitySet="tblThuaDatDeNghiHopThuaTrongBienDongTheoDon">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SoPhatHanhGCN" ColumnName="SoPhatHanhGCN" />
+          <ScalarProperty Name="SoVaoSoCapGCN" ColumnName="SoVaoSoCapGCN" />
+          <ScalarProperty Name="NgayCapGCN" ColumnName="NgayCapGCN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatDeNghiTachThuaTrongBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatDeNghiTachThuaTrongBienDong">
+        <MappingFragment StoreEntitySet="tblThuaDatDeNghiTachThuaTrongBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SoPhatHanhGCN" ColumnName="SoPhatHanhGCN" />
+          <ScalarProperty Name="SoVaoSoCapGCN" ColumnName="SoVaoSoCapGCN" />
+          <ScalarProperty Name="NgayCapGCN" ColumnName="NgayCapGCN" />
+          <ScalarProperty Name="SoThuaConDeNghiTach" ColumnName="SoThuaConDeNghiTach" />
+          <ScalarProperty Name="DienTichCon1" ColumnName="DienTichCon1" />
+          <ScalarProperty Name="DienTichCon2" ColumnName="DienTichCon2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatDeNghiTachThuaTrongBienDongTheoDons">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatDeNghiTachThuaTrongBienDongTheoDon">
+        <MappingFragment StoreEntitySet="tblThuaDatDeNghiTachThuaTrongBienDongTheoDon">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SoPhatHanhGCN" ColumnName="SoPhatHanhGCN" />
+          <ScalarProperty Name="SoVaoSoCapGCN" ColumnName="SoVaoSoCapGCN" />
+          <ScalarProperty Name="NgayCapGCN" ColumnName="NgayCapGCN" />
+          <ScalarProperty Name="SoThuaConDeNghiTach" ColumnName="SoThuaConDeNghiTach" />
+          <ScalarProperty Name="DienTichCon1" ColumnName="DienTichCon1" />
+          <ScalarProperty Name="DienTichCon2" ColumnName="DienTichCon2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatDuBi">
+        <MappingFragment StoreEntitySet="tblThuaDatDuBi">
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="MaHoSoKeKhai" ColumnName="MaHoSoKeKhai" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="SuDungChung" ColumnName="SuDungChung" />
+          <ScalarProperty Name="SuDungRieng" ColumnName="SuDungRieng" />
+          <ScalarProperty Name="MucDichSuDung" ColumnName="MucDichSuDung" />
+          <ScalarProperty Name="ThoiHanSuDung" ColumnName="ThoiHanSuDung" />
+          <ScalarProperty Name="NgayBatDauSuDung" ColumnName="NgayBatDauSuDung" />
+          <ScalarProperty Name="CoHanCheSuDung" ColumnName="CoHanCheSuDung" />
+          <ScalarProperty Name="NoiDungHanCheSuDung" ColumnName="NoiDungHanCheSuDung" />
+          <ScalarProperty Name="LoaiNguonGocSuDung" ColumnName="LoaiNguonGocSuDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatThayDoiTrongBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatThayDoiTrongBienDong">
+        <MappingFragment StoreEntitySet="tblThuaDatThayDoiTrongBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="NoiDungThayDoiKhac" ColumnName="NoiDungThayDoiKhac" />
+          <ScalarProperty Name="ToBanDoMoi" ColumnName="ToBanDoMoi" />
+          <ScalarProperty Name="SoThuaMoi" ColumnName="SoThuaMoi" />
+          <ScalarProperty Name="DienTichMoi" ColumnName="DienTichMoi" />
+          <ScalarProperty Name="NoiDungThayDoiKhacMoi" ColumnName="NoiDungThayDoiKhacMoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblThuaDatThayDoiTrongBienDongDuBis">
+      <EntityTypeMapping TypeName="DMCWebModel.tblThuaDatThayDoiTrongBienDongDuBi">
+        <MappingFragment StoreEntitySet="tblThuaDatThayDoiTrongBienDongDuBi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaThuaDat" ColumnName="MaThuaDat" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="ToBanDo" ColumnName="ToBanDo" />
+          <ScalarProperty Name="SoThua" ColumnName="SoThua" />
+          <ScalarProperty Name="DienTich" ColumnName="DienTich" />
+          <ScalarProperty Name="NoiDungThayDoiKhac" ColumnName="NoiDungThayDoiKhac" />
+          <ScalarProperty Name="ToBanDoMoi" ColumnName="ToBanDoMoi" />
+          <ScalarProperty Name="SoThuaMoi" ColumnName="SoThuaMoi" />
+          <ScalarProperty Name="DienTichMoi" ColumnName="DienTichMoi" />
+          <ScalarProperty Name="NoiDungThayDoiKhacMoi" ColumnName="NoiDungThayDoiKhacMoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblXacNhanCapCoSoes">
+      <EntityTypeMapping TypeName="DMCWebModel.tblXacNhanCapCoSo">
+        <MappingFragment StoreEntitySet="tblXacNhanCapCoSo">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="NoiDungKeKhaiSoVoiHienTrang" ColumnName="NoiDungKeKhaiSoVoiHienTrang" />
+          <ScalarProperty Name="NguonGocSuDungDat" ColumnName="NguonGocSuDungDat" />
+          <ScalarProperty Name="ThoiDiemSuDungDatVaoMucDichDangKy" ColumnName="ThoiDiemSuDungDatVaoMucDichDangKy" />
+          <ScalarProperty Name="ThoiDiemTaoLapTaiSanGanLienVoiDat" ColumnName="ThoiDiemTaoLapTaiSanGanLienVoiDat" />
+          <ScalarProperty Name="TinhTrangTranhChapDatDaiVaTaiSan" ColumnName="TinhTrangTranhChapDatDaiVaTaiSan" />
+          <ScalarProperty Name="SuPhuHopVoiQuyHoachSuDungDatVaQuyHoachXayDung" ColumnName="SuPhuHopVoiQuyHoachSuDungDatVaQuyHoachXayDung" />
+          <ScalarProperty Name="NoiDungKhac" ColumnName="NoiDungKhac" />
+          <ScalarProperty Name="DiaChinh_NgayXacNhan" ColumnName="DiaChinh_NgayXacNhan" />
+          <ScalarProperty Name="DiaChinh_CanBo" ColumnName="DiaChinh_CanBo" />
+          <ScalarProperty Name="DiaChinh_TieuDeKy" ColumnName="DiaChinh_TieuDeKy" />
+          <ScalarProperty Name="UBND_NgayKy" ColumnName="UBND_NgayKy" />
+          <ScalarProperty Name="UBND_TieuDeKy" ColumnName="UBND_TieuDeKy" />
+          <ScalarProperty Name="UBND_NguoiKy" ColumnName="UBND_NguoiKy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblXacNhanCapCoSoVeBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblXacNhanCapCoSoVeBienDong">
+        <MappingFragment StoreEntitySet="tblXacNhanCapCoSoVeBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="NoiDungXacNhan" ColumnName="NoiDungXacNhan" />
+          <ScalarProperty Name="NoiDungKhac" ColumnName="NoiDungKhac" />
+          <ScalarProperty Name="DiaChinh_NgayXacNhan" ColumnName="DiaChinh_NgayXacNhan" />
+          <ScalarProperty Name="DiaChinh_CanBo" ColumnName="DiaChinh_CanBo" />
+          <ScalarProperty Name="DiaChinh_TieuDeKy" ColumnName="DiaChinh_TieuDeKy" />
+          <ScalarProperty Name="UBND_NgayKy" ColumnName="UBND_NgayKy" />
+          <ScalarProperty Name="UBND_TieuDeKy" ColumnName="UBND_TieuDeKy" />
+          <ScalarProperty Name="UBND_NguoiKy" ColumnName="UBND_NguoiKy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblXacNhanCoQuanDangKyDatDais">
+      <EntityTypeMapping TypeName="DMCWebModel.tblXacNhanCoQuanDangKyDatDai">
+        <MappingFragment StoreEntitySet="tblXacNhanCoQuanDangKyDatDai">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaHoSo" ColumnName="MaHoSo" />
+          <ScalarProperty Name="NoiDungYKien" ColumnName="NoiDungYKien" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="NgayKiemTra" ColumnName="NgayKiemTra" />
+          <ScalarProperty Name="NguoiKiemTra" ColumnName="NguoiKiemTra" />
+          <ScalarProperty Name="ChucVuNguoiKiemTra" ColumnName="ChucVuNguoiKiemTra" />
+          <ScalarProperty Name="NgayKy" ColumnName="NgayKy" />
+          <ScalarProperty Name="GiamDoc" ColumnName="GiamDoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblYKienCoQuanDangKyDatDaiVeBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblYKienCoQuanDangKyDatDaiVeBienDong">
+        <MappingFragment StoreEntitySet="tblYKienCoQuanDangKyDatDaiVeBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="NoiDungYKien" ColumnName="NoiDungYKien" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="NgayKiemTra" ColumnName="NgayKiemTra" />
+          <ScalarProperty Name="NguoiKiemTra" ColumnName="NguoiKiemTra" />
+          <ScalarProperty Name="ChucVuNguoiKiemTra" ColumnName="ChucVuNguoiKiemTra" />
+          <ScalarProperty Name="NgayKy" ColumnName="NgayKy" />
+          <ScalarProperty Name="GiamDoc" ColumnName="GiamDoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblYKienCoQuanTaiNguyenVaMoiTruongVeBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblYKienCoQuanTaiNguyenVaMoiTruongVeBienDong">
+        <MappingFragment StoreEntitySet="tblYKienCoQuanTaiNguyenVaMoiTruongVeBienDong">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+          <ScalarProperty Name="NoiDungYKien" ColumnName="NoiDungYKien" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="NgayKiemTra" ColumnName="NgayKiemTra" />
+          <ScalarProperty Name="NguoiKiemTra" ColumnName="NguoiKiemTra" />
+          <ScalarProperty Name="NgayKy" ColumnName="NgayKy" />
+          <ScalarProperty Name="ThuTruongCoQuanKy" ColumnName="ThuTruongCoQuanKy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDonXinDangKyBienDongs">
+      <EntityTypeMapping TypeName="DMCWebModel.tblDonXinDangKyBienDong">
+        <MappingFragment StoreEntitySet="tblDonXinDangKyBienDong">
+          <ScalarProperty Name="DonViHanhChinh" ColumnName="DonViHanhChinh" />
+          <ScalarProperty Name="KinhGuiCoQuanChucNang" ColumnName="KinhGuiCoQuanChucNang" />
+          <ScalarProperty Name="Quyen" ColumnName="Quyen" />
+          <ScalarProperty Name="SoTiepNhan" ColumnName="SoTiepNhan" />
+          <ScalarProperty Name="NguoiNhanHoSo" ColumnName="NguoiNhanHoSo" />
+          <ScalarProperty Name="NgayNhanHoSo" ColumnName="NgayNhanHoSo" />
+          <ScalarProperty Name="LoaiDoiTuongApDung" ColumnName="LoaiDoiTuongApDung" />
+          <ScalarProperty Name="LoaiBienDong" ColumnName="LoaiBienDong" />
+          <ScalarProperty Name="GiayToKemTheo" ColumnName="GiayToKemTheo" />
+          <ScalarProperty Name="TinhHinhThucHienNghiaVuTaiChinh" ColumnName="TinhHinhThucHienNghiaVuTaiChinh" />
+          <ScalarProperty Name="LyDoBienDong" ColumnName="LyDoBienDong" />
+          <ScalarProperty Name="NoiDungSauKhiBienDong" ColumnName="NoiDungSauKhiBienDong" />
+          <ScalarProperty Name="NoiDungGhiTrenGCNTruocKhiBienDong" ColumnName="NoiDungGhiTrenGCNTruocKhiBienDong" />
+          <ScalarProperty Name="BienDongVe" ColumnName="BienDongVe" />
+          <ScalarProperty Name="NgayCapGCN" ColumnName="NgayCapGCN" />
+          <ScalarProperty Name="SoPhatHanhGCN" ColumnName="SoPhatHanhGCN" />
+          <ScalarProperty Name="SoVaoSoCapGCN" ColumnName="SoVaoSoCapGCN" />
+          <ScalarProperty Name="NgayVietDon" ColumnName="NgayVietDon" />
+          <ScalarProperty Name="NguoiVietDon" ColumnName="NguoiVietDon" />
+          <ScalarProperty Name="MaDangKyBienDong" ColumnName="MaDangKyBienDong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsers">
+      <EntityTypeMapping TypeName="DMCWebModel.tblUser">
+        <MappingFragment StoreEntitySet="tblUsers">
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="PhongBan" ColumnName="PhongBan" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+          <ScalarProperty Name="TenDayDu" ColumnName="TenDayDu" />
+          <ScalarProperty Name="NgayTaoUser" ColumnName="NgayTaoUser" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="NguoiQuanLy" ColumnName="NguoiQuanLy" />
+          <ScalarProperty Name="MaQuyen" ColumnName="MaQuyen" />
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="MaUsers" ColumnName="MaUsers" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

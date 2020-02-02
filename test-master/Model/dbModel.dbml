@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ExactReport" Class="dbModelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=192.169.1.6;Initial Catalog=ExactReport;Persist Security Info=True;User ID=Exact;MultipleActiveResultSets=True" SettingsObjectName="SH.Crawler.Properties.Settings" SettingsPropertyName="ExactReportConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CRItemPrice" Member="CRItemPrices">
+    <Type Name="CRItemPrice">
+      <Column Name="SiteCode" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ItemSiteCode" Type="System.String" DbType="NVarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ItemBrand" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ItemSiteName" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="SiteItemGroup" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SitePrice" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Promotion" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="UrlCheck" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreateBy" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CRItems" Member="CRItems">
+    <Type Name="CRItem">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ItemCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SiteCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ItemSiteCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ItemSiteSearchCode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="CRSite_CRItem" Member="CRSite" ThisKey="SiteCode" OtherKey="SiteCode" Type="CRSite" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CRSitePages" Member="CRSitePages">
+    <Type Name="CRSitePage">
+      <Column Name="PageUrl" Type="System.String" DbType="NVarChar(200) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SiteCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SiteItemGroup" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="CRSite_CRSitePage" Member="CRSite" ThisKey="SiteCode" OtherKey="SiteCode" Type="CRSite" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CRSites" Member="CRSites">
+    <Type Name="CRSite">
+      <Column Name="SiteCode" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SiteUrl" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="CRSite_CRItem" Member="CRItems" ThisKey="SiteCode" OtherKey="SiteCode" Type="CRItem" />
+      <Association Name="CRSite_CRSitePage" Member="CRSitePages" ThisKey="SiteCode" OtherKey="SiteCode" Type="CRSitePage" />
+    </Type>
+  </Table>
+  <Function Name="dbo.Proc_CRLoadUrlCraw" Method="Proc_CRLoadUrlCraw">
+    <Parameter Name="SiteCode" Parameter="siteCode" Type="System.String" DbType="NVarChar(40)" />
+    <ElementType Name="Proc_CRLoadUrlCrawResult">
+      <Column Name="SiteCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SiteItemGroup" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PageUrl" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="SiteUrl" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

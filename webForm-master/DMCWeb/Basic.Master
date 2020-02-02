@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Basic.master.cs" Inherits="DMCWeb.Basic" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>DMC Land</title>
+     <webopt:bundlereference runat="server" path="~/Content/style.css" />
+     <webopt:bundlereference runat="server" path="~/Content/bootstrap.css" />
+
+</head>
+
+
+<body>
+<form id="form1" runat="server">
+<header>
+
+	<div class="account" id="ChuaDangNhap" runat="server">
+		<ul>
+			<li><a runat="server"  href="~/Account/DangNhap.aspx"><span class="glyphicon glyphicon-log-in"></span> Đăng nhập</a></li>
+			<li><a runat="server"  href="~/Account/DangKy.aspx"><span class="glyphicon glyphicon-cog"></span> Đăng ký</a></li>
+
+		</ul>
+	</div>
+	<div class="account" id="DangDangNhap" runat="server">
+		<ul>
+			<li>
+				<a runat="server" href="~/Account/ThongTinTaiKhoan.aspx?"><span class="glyphicon glyphicon-user"> </span> <asp:Label ID="lblUsername" runat="server" Text=""></asp:Label></a>
+				<ul>
+                    <li><a runat="server"  href="TrangChuAdmin.aspx">Quản trị</a></li>
+					<li><a runat="server"  href="~/TrangChuNghiepVu.aspx">Nghiệp vụ</a></li>
+					<li><a runat="server"  href="~/TrangChuKeKhai.aspx">Kê khai</a></li>
+					<li><a runat="server"  href="~/Account/DangXuat.aspx"><span class="glyphicon glyphicon-log-out"></span> Đăng xuất</a></li>
+				</ul>
+			</li>
+		</ul>			
+	</div>
+	<div class="nav">
+		<ul>		
+			<!-- <li><a href="#"><img src="images/DMCLandLogo .jpg" width="35px" height="35px"></a></li> -->
+			<li><a runat="server"  href="~/NguoiDan/DangKyCapGCN.aspx">Giấy chứng nhận</a></li>
+			<li><a runat="server"  href="~/NguoiDan/DangKyBienDong/DonDangKyBienDong.aspx">Biến động</a></li>
+		</ul>
+		<div class="searchTab">
+            <asp:TextBox ID="txtThongTinTimKiem" runat="server" Text="Nhập họ tên hoặc số CMND..." CssClass="input_search"></asp:TextBox>
+            &nbsp;<asp:Button CssClass="btn btn-sm btn-success"  ID="btnTim" runat="server" Text=" Tìm" OnClick="btnTim_Click" />
+            
+		</div>
+	</div>
+	
+</header>
+<div id="content">
+	    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</div>
+<footer>
+	&copy; Nguyễn Tiến Thành.
+</footer>
+</form>
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\bin\Debug\DuaXe.exe.config
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\bin\Debug\DuaXe.exe
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\bin\Debug\DuaXe.pdb
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\obj\Debug\DuaXe.frmDuaXe.resources
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\obj\Debug\DuaXe.Properties.Resources.resources
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\obj\Debug\DuaXe.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\obj\Debug\DuaXe.exe
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\obj\Debug\DuaXe.pdb
+C:\Users\Admin\OneDrive\PROJECT\Snack\DuaXe\obj\Debug\DuaXe.csprojResolveAssemblyReference.cache

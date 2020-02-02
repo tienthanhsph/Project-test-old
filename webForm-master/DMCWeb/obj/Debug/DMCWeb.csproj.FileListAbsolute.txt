@@ -1,0 +1,517 @@
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\obj\Debug\DemoNhapDuLieuTrenWebsite.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\DemoNhapDuLieuTrenWebsite.dll.config
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\DemoNhapDuLieuTrenWebsite.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\DemoNhapDuLieuTrenWebsite.pdb
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Owin.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\DemoNhapDuLieuTrenWebsite\DemoNhapDuLieuTrenWebsite\obj\Debug\DemoNhapDuLieuTrenWebsite.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\DemoNhapDuLieuTrenWebsite.dll.config
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\DemoNhapDuLieuTrenWebsite.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\DemoNhapDuLieuTrenWebsite.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Owin.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\obj\Debug\DemoNhapDuLieuTrenWebsite.dll
+C:\Users\Administrator\Desktop\DMCWeb\DemoNhapDuLieuTrenWebsite\obj\Debug\DemoNhapDuLieuTrenWebsite.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Owin.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Owin.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\WebGrease.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\DMCWeb.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\bin\DMCWeb.pdb
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\TIEN THANH\Desktop\DMCWeb\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\DMCWeb.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\DMCWeb.pdb
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\Administrator\Desktop\DMCWeb\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.pdb
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Owin.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\WebGrease.dll
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.pdb
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Owin.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\WebGrease.dll
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HUONG LAN\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\DMCWeb.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Owin.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\WebGrease.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\TIEN THANH\OneDrive\WORKING___\DMCWeb\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\DMCWeb.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\DMCWeb.pdb
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Owin.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\Administrator\Desktop\SVN\trunk\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Github\DMCweb\trunk\DMCWeb\bin\DMCWeb.dll.config
+C:\Github\DMCweb\trunk\DMCWeb\bin\DMCWeb.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\DMCWeb.pdb
+C:\Github\DMCweb\trunk\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\EntityFramework.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\Owin.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\System.Web.Optimization.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\System.Web.Providers.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\WebGrease.dll
+C:\Github\DMCweb\trunk\DMCWeb\bin\System.Web.Optimization.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Github\DMCweb\trunk\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\EntityFramework.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Github\DMCweb\trunk\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Github\DMCweb\trunk\DMCWeb\obj\Debug\DMCWeb.csprojResolveAssemblyReference.cache
+C:\Github\DMCweb\trunk\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Github\DMCweb\trunk\DMCWeb\obj\Debug\DMCWeb.pdb
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\DMCWeb.dll.config
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\DMCWeb.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\DMCWeb.pdb
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Owin.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\System.Web.Providers.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\WebGrease.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\obj\Debug\DMCWeb.dll
+C:\Users\Administrator\Documents\GitHub\dmcweb\DMCWeb\obj\Debug\DMCWeb.pdb

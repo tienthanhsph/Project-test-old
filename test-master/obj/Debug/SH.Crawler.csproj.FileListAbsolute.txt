@@ -1,0 +1,29 @@
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.csprojFakesResolveAssemblyReference.cache
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\Test.Form1.resources
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.ucCrawData.resources
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.frmCrawler.resources
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.MainForm.resources
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.Properties.Resources.resources
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.csproj.GenerateResource.Cache
+D:\SOURCE-SUNHOUSE\DevelopedProjects\Test\obj\Debug\SH.Crawler.exe.licenses
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\SH.Crawler.exe.config
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\SH.Crawler.exe
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\SH.Crawler.pdb
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\HtmlAgilityPack.dll
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\Jurassic.dll
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\Newtonsoft.Json.dll
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\HtmlAgilityPack.pdb
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\HtmlAgilityPack.xml
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\Jurassic.pdb
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\Jurassic.xml
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\bin\Debug\Newtonsoft.Json.xml
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.csprojResolveAssemblyReference.cache
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\Test.Form1.resources
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.ucCrawData.resources
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.frmCrawler.resources
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.MainForm.resources
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.Properties.Resources.resources
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.csproj.GenerateResource.Cache
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.exe.licenses
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.exe
+D:\SOURCE-SUNHOUSE _test\DevelopedProjects\Test\obj\Debug\SH.Crawler.pdb

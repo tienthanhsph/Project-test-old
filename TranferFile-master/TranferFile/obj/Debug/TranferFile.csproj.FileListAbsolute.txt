@@ -1,0 +1,9 @@
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\obj\Debug\TranferFile.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\obj\Debug\TranferFile.Find.resources
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\obj\Debug\TranferFile.MainForm.resources
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\obj\Debug\TranferFile.csproj.GenerateResource.Cache
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\bin\Debug\TranferFile.exe.config
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\bin\Debug\TranferFile.exe
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\bin\Debug\TranferFile.pdb
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\obj\Debug\TranferFile.exe
+C:\Users\TIEN THANH\Documents\SharpDevelop Projects\TranferFile\TranferFile\obj\Debug\TranferFile.pdb

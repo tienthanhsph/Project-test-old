@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\bin\Debug\ShowInfo.exe.config
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\bin\Debug\ShowInfo.exe
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\bin\Debug\ShowInfo.pdb
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\obj\Debug\ShowInfo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\obj\Debug\ShowInfo.Form1.resources
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\obj\Debug\ShowInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\obj\Debug\ShowInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\obj\Debug\ShowInfo.exe
+C:\Users\Administrator\Desktop\ShowInfo\ShowInfo\obj\Debug\ShowInfo.pdb

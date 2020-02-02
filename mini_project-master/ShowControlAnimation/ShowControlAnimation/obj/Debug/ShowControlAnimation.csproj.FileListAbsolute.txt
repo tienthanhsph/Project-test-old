@@ -1,0 +1,30 @@
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\bin\Debug\ShowControlAnimation.exe.config
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\bin\Debug\ShowControlAnimation.exe
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\bin\Debug\ShowControlAnimation.pdb
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.Main.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.Properties.Resources.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC1.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC2.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC3.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC4.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC5.resources
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.csproj.GenerateResource.Cache
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.exe
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.pdb
+C:\Users\TIEN THANH\Desktop\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.Open.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\bin\Debug\ShowControlAnimation.exe.config
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.exe
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.pdb
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\bin\Debug\ShowControlAnimation.exe
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\bin\Debug\ShowControlAnimation.pdb
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.Main.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.Open.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.Properties.Resources.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC1.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC2.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC3.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC4.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.UC5.resources
+C:\Users\TIEN THANH\OneDrive\MY PROJECT___\Nghịch\ShowControlAnimation\ShowControlAnimation\obj\Debug\ShowControlAnimation.csproj.GenerateResource.Cache

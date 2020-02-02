@@ -1,0 +1,43 @@
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe.config
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.pdb
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form1.resources
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.exe
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.pdb
+C:\Users\Administrator\Desktop\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.XemVanDau.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe.config
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.exe
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.pdb
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe.config
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.exe
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.pdb
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form1.resources
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.XemVanDau.resources
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csproj.GenerateResource.Cache
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.pdb
+C:\Users\Administrator\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form2.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.pdb
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form1.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form2.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Properties.Resources.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.XemVanDau.resources
+C:\Users\TIEN THANH\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csproj.GenerateResource.Cache
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe.config
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.exe
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.pdb
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.exe
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\bin\Debug\ExePgnFile.pdb
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csprojResolveAssemblyReference.cache
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form1.resources
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Form2.resources
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.Properties.Resources.resources
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.XemVanDau.resources
+C:\Users\HUONG LAN\OneDrive\WORKING___\ExePgnFile\ExePgnFile\obj\Debug\ExePgnFile.csproj.GenerateResource.Cache

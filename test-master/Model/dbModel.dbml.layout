@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.875" name="dbModel">
+  <DataContextMoniker Name="/dbModelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6909e0ce-57dd-42f4-b94b-4d0ecc52ed1f" absoluteBounds="0.75, 5.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/dbModelDataContext/CRItemPrice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c1abf66-f7a6-4300-b701-e8076f0f5c8e" absoluteBounds="0.765, 6.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="07d74e3b-1f4f-4673-bbd9-5a104870f707" absoluteBounds="3.5, 3.125, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/dbModelDataContext/CRItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="36311553-3e1d-4121-9916-6732b3efc17b" absoluteBounds="3.515, 3.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b35f6fe3-f20b-4c46-9794-ce61bc167d1a" absoluteBounds="3.5, 1, 2, 1.3862939453125">
+      <DataClassMoniker Name="/dbModelDataContext/CRSitePage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc7b8de1-b985-44f1-b84a-085c0f9d8c03" absoluteBounds="3.515, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94ecd57e-5899-4005-a890-a567a674fd17" absoluteBounds="1.375, 2.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/dbModelDataContext/CRSite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8bdaa2b-38dc-4b79-b4bb-bf0f3888b247" absoluteBounds="1.3899999999999997, 2.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.375 : 3.38064697265625); (3.5 : 3.38064697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbModelDataContext/CRSite/CRSite_CRItem" />
+      <nodes>
+        <classShapeMoniker Id="94ecd57e-5899-4005-a890-a567a674fd17" />
+        <classShapeMoniker Id="07d74e3b-1f4f-4673-bbd9-5a104870f707" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.375 : 2.25); (2.375 : 1.6249995); (3.5 : 1.6249995)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbModelDataContext/CRSite/CRSite_CRSitePage" />
+      <nodes>
+        <classShapeMoniker Id="94ecd57e-5899-4005-a890-a567a674fd17" />
+        <classShapeMoniker Id="b35f6fe3-f20b-4c46-9794-ce61bc167d1a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

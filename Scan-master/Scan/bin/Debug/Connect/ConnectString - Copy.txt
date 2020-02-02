@@ -1,0 +1,2 @@
+SERVER = WINDOWS-RVEI62L; DATABASE = georgetown_ThanhTri; User ID = sa; Password = dmc@3sao
+SERVER = TIENTHANH-PC\\SQLEXPRESS; DATABASE = georgetown_TayHo; User ID = sa; Password = Thanhid1

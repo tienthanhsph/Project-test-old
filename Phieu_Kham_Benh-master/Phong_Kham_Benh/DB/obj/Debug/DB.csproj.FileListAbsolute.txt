@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\bin\Debug\DB.dll
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\bin\Debug\DB.pdb
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\obj\Debug\DB.dll
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\obj\Debug\DB.pdb
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\bin\Debug\Phong_Kham_Benh.exe
+C:\Users\Administrator\Desktop\Projects\Phong_Kham_Benh\DB\bin\Debug\Phong_Kham_Benh.pdb
+C:\Users\Administrator\Desktop\Phong_Kham_Benh\DB\bin\Debug\DB.dll
+C:\Users\Administrator\Desktop\Phong_Kham_Benh\DB\bin\Debug\DB.pdb
+C:\Users\Administrator\Desktop\Phong_Kham_Benh\DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Phong_Kham_Benh\DB\obj\Debug\DB.dll
+C:\Users\Administrator\Desktop\Phong_Kham_Benh\DB\obj\Debug\DB.pdb

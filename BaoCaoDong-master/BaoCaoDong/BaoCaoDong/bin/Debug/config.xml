@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Servers>
+  <Server id="1">
+    <TenKetNoi>admin</TenKetNoi>
+    <Name>NGA_TDC\SQL2005</Name>
+    <Database>georgetown_ThanhTri</Database>
+    <DatabaseQuan>georgetown_ThanhTri</DatabaseQuan>
+    <UserID>sa</UserID>
+    <Password>64646D6361646D696E6D646D6361646D696E63646D6361646D696E33646D6361646D696E73646D6361646D696E74646D6361646D696E61646D6361646D696E72646D6361646D696E646D6361646D696E</Password>
+  </Server>
+</Servers>

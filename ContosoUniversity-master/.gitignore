@@ -1,0 +1,6 @@
+**/bin/
+**/packages/
+**/Properties/
+**/obj/
+**/fonts/
+/.vs

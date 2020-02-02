@@ -1,0 +1,101 @@
+
+.xe{
+	border: solid 1px;
+	border-radius:10px;
+	margin:0px auto;
+	padding: 5px;
+}
+.anh{
+	width: 300px;
+	height: 230px;
+
+}
+.tieude{
+	font-weight: bold;
+	font-size: 18px;
+}
+.tieude a:hover{
+	color: orange;
+	text-decoration: none;
+}
+#list{
+	display: inline;
+}
+#list li{
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.xe{
+	display: block;	
+	background-color: white;
+	height: 250px;
+	margin-bottom:30px;
+}
+.thongTinXe{
+	width: 100%;
+	height: 80%;
+	display: none;
+	position: absolute;
+	top:0px;
+	left:0px;
+	background: rgba(0, 0, 0, 0.52);
+	color:white;
+	font-weight: bold;
+	
+}
+.anhXe{
+	width:100%;
+	height: 80%;
+	padding:5px;
+	border-radius:5px;
+}
+
+.buy{
+	width:100%;
+	height: 20%;
+	padding:0px 5px;
+}
+.cost{
+	float:left;
+	margin:5px;
+}
+
+.addToCart{
+	float:right;
+	margin:5px;
+}
+
+
+
+.anhXe a:hover .thongTinXe{
+	display: block;
+}
+*/
+
+/*slider*/
+
+	/*	.thongTinXe-slide{
+			width: 350px;
+			height: 300px;
+			position: absolute;
+			top:0px;
+			right:0px;
+			background: rgba(0, 0, 0, 0.08);
+			color:black;
+			padding:10px;
+			
+		}
+*/

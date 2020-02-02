@@ -1,0 +1,15 @@
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\bin\Debug\NextStep.exe.config
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\bin\Debug\NextStep.exe
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\bin\Debug\NextStep.pdb
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.csprojResolveAssemblyReference.cache
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Ctrl1.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Ctrl2.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Ctrl3.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Ctrl4.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Ctrl5.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Main.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.Properties.Resources.resources
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.csproj.GenerateResource.Cache
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.exe
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.pdb
+C:\Users\TIEN THANH\Desktop\NextStep\NextStep\obj\Debug\NextStep.frmChonHoSo.resources

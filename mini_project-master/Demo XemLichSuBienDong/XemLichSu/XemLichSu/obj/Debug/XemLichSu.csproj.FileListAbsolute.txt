@@ -1,0 +1,12 @@
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\bin\Debug\XemLichSu.exe.config
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\bin\Debug\XemLichSu.exe
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\bin\Debug\XemLichSu.pdb
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.csprojResolveAssemblyReference.cache
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.Properties.Resources.resources
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.csproj.GenerateResource.Cache
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.exe
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.pdb
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.HoSo.resources
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.BienDong.resources
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.LichSu.resources
+C:\Users\HUONG LAN\Desktop\XemLichSu\XemLichSu\obj\Debug\XemLichSu.ThongTinNhanh.resources

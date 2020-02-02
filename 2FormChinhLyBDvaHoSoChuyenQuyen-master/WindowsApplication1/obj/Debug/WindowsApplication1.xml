@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication1.clsHoSoCapGCN.ActiveChucNang(System.Int32[],System.String)">
+	<summary>
+ Hàm xác định chức năng nghiệp vụ có được Active hay không
+ </summary>
+	<param name="intMangChucNang">Mảng chức năng mà cán bộ nghiệp vụ có thể thao tác</param>
+	<param name="strTenChucNang">Tên chức năng cần kiểm tra xem  có được thao tác
+ hay không</param>
+	<returns>Kết quả trả về kiểu bool:
+ True: Chức năng có tên strTenChucNang có quyền được thực hiện
+ False: Chức năng có tên strTenChucNang không có được thực hiện</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

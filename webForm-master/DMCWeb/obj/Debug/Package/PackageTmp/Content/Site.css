@@ -1,0 +1,482 @@
+﻿
+html {
+    background-color:white;
+}
+body {
+   background-color:white;
+   font-family:'Times New Roman';   
+   font-size:14px; 
+}
+
+#KhungTrang {
+    /*border:solid thin;
+    border-radius:4px;
+    border-color: #003366;*/
+    width:80%;
+    margin: auto;
+}
+
+header{
+    text-align:center;
+    color: white;
+    background-color:white;  
+    height:50px;
+    
+}
+header ul{
+    float:right;
+    padding-right:20px;
+    padding-top:10px;
+}
+header ul li{
+    display:inline;
+}
+header ul li a{
+    padding:4px;
+    color:black;
+    text-decoration:none;
+    border-radius:4px;
+    transition:all 0.5s;
+
+    /*border-color:red;
+    border-style:solid;
+    border-width:*/1px;
+}
+header ul li a:hover{
+    background-color:red;
+    color:white;
+    text-decoration:none;
+}
+
+.navbar {
+    height:10px;
+      
+}
+nav ul{
+  padding-left:0px;
+}
+nav ul li{
+    display:inline;
+    padding-top:5px;
+    padding-bottom:5px;        
+}
+nav ul li .navbar-center{
+ 
+}
+
+nav ul li a{
+    padding:5px;
+    background-color:white;
+    color:black;
+    border-radius:4px;
+    transition: color 0.5s, background 0.5s;
+    font-size:120%;
+    font-weight:300;
+    text-decoration:none;
+    font-family:'Verdana';
+
+    border:solid thin;
+    border-color: #003366;
+}
+nav ul li a:hover{
+    background-color: #003366;
+    color:white;
+    border-radius:4px;
+    text-decoration:none;
+}
+#Main {
+    margin:0px;
+    /*border:solid thin;
+    border-color: #003366;*/
+    background-color:white;
+    padding: 5px 10px;
+}
+section{
+    /*background-color:#A0AEC1;*/
+    /*text-align:justify;
+    color:black;
+    padding-top:0px;
+    margin:0px;*/
+}
+footer{
+    
+    text-align:center;
+    color: #003366;
+    width:100%;    
+    bottom: 0px;
+    height:40px;
+    margin:0px auto;
+    margin-bottom:0px;
+   /*background-color:red;*/
+}
+
+
+
+.menu {
+    background-color:black;
+    color:white;
+    height:33px;
+    margin:0px auto;
+}
+.menu  ul{
+    padding-top:5px;
+    margin-left:30px;
+    padding-left:0px;
+    
+}
+    .menu ul li {
+    display:inline;
+    padding-right:12px;
+    
+    
+    }
+    .menu ul li a{
+        padding:5px;
+        border:solid thin;
+    border-radius:5px;
+    border-color:white;
+        color:white;
+        text-decoration:none;
+        transition: color 0.5s, background 0.5s;
+    }
+    .menu ul li a:hover{
+        background-color:red;
+        text-decoration:none;
+    }
+
+.col-sm-6{
+    align-content:center;
+    color:black;
+    background-color: white;
+    border:none;
+}
+.toRight{
+    float:right;
+}
+.toLeft{
+    float:right;
+}
+
+
+
+
+/** dành cho form đăng nhập*/
+.login table{
+   padding:5px;
+}
+.login table tr{
+   padding-top:5px;
+   padding-bottom:5px;
+   height:40px;
+}
+.login table tr .titlelogin {
+        font-size:18px;
+        text-align:center;
+        color:white;
+        padding-bottom:10px;
+    }
+
+
+/*Định dạng bảng nhập liệu 3 cột*/
+table tr  .left-3col{
+    width:30%;
+    padding-left :5px;
+    color:black;
+    text-align:right;
+    padding-right:15px;
+}
+table tr  .mid-3col{
+    width:40%;
+    padding-left :0px;
+    align-content:center;
+    
+}
+table tr  .right-3col{
+    width:30%;
+    padding-left :5px;
+    color:red;
+    text-align:left;
+}
+
+    
+
+/*Định dạng wizard*/
+.wizardStyle {
+    width:100%;
+    /*background-color:#B0C4DE;*/
+    margin:0px auto;
+    
+}
+/*.wizardSlideBarStyle{
+    padding:10px;
+    color:white;
+}*/
+.wizardStepStyle{
+    padding-left:20px;
+}
+.wizard {
+    width:100%;
+    padding:10px 5px;
+    margin:0px;
+    margin-top:10px;
+
+    /*border:solid thin;
+    border-radius:4px;
+    border-color: #003366;*/
+
+    background-color:#B0C4DE;
+}
+
+/*Định dạng blog nhập liệu (trong wizard)*/
+.blogthongtin{
+    width:100%;
+    height:100%;
+    margin:0px;
+    /*background-color:#B0C4DE;*/
+}
+.blogthongtin .tieudeblogthongtin {
+    width:100%;
+    padding: 12px 0px ;   
+    text-align:center;
+}
+
+
+/*dành cho form tìm kiếm*/
+.left{
+     width:100%;
+    text-align:left;
+    padding:10px;
+    margin:10px;
+}
+.center{
+    width:100%;
+    text-align:center;
+    margin:auto;
+    margin-top:10px;
+    margin-bottom:10px;
+
+}
+.right{
+    width:100%;
+    text-align:right;
+    padding:10px;
+    margin:10px;
+}
+.ThongTinTimKiem{
+    width:50%;
+    margin:auto;
+    padding:0px;
+    
+}
+.ThongTinTimKiem table{
+    width:100%;    
+    background-color:#1C5E55;
+    border-radius:4px;
+}
+.ThongTinTimKiem table tr{
+    padding:5px;
+}
+.ThongTinTimKiem table tr .col1{
+    text-align:right;
+    padding-right:10px;
+    color:white;
+    width:25%;
+}
+.ThongTinTimKiem table tr .col2{
+    text-align:left;
+    padding-left:0px;
+    padding-right:20px;
+}
+.ThongTinTimKiem table tr .col3{
+    width:0%;
+}
+.ThongTinTimKiem table tr .col4{
+     text-align:right;
+    padding-right:10px;
+    color:white;
+    width:25%;
+}
+.ThongTinTimKiem table tr .col5{
+    text-align:left;
+    padding-left:0px;
+    width:25%;
+    padding-right:20px;
+}
+.grvTimKiem{
+   
+    margin:auto;
+   
+}
+
+
+
+
+/**************/
+.tieude{
+    font-family:'Times New Roman';
+    font-size:18px;
+    color:white;
+    background-color:red;
+    text-align:center;
+    width:100%;
+}
+.tieude-xanh{
+    font-family:'Times New Roman';
+    font-size:18px;
+    color:white;
+    background-color:#0073CF;
+    text-align:center;
+    width:100%;
+}
+
+.noidungdon{
+    font-family:'Times New Roman';
+    font-size:14px;
+    color:black;
+    /*background-color:#0073CF;*/
+    /*text-align:center;*/
+    width:100%;
+    padding:10px 5px;
+}
+.noibat1{
+    font-family:'Times New Roman';
+    font-size:20px;
+    color:#0073CF;
+    /*background-color:#0073CF;*/
+    /*text-align:center;*/
+    /*width:100%;*/
+}
+.noibat2{
+    font-family:'Times New Roman';
+    font-size:18px;
+    color:#0073CF;
+    /*background-color:#0073CF;*/
+    /*text-align:center;*/
+    /*width:100%;*/
+}
+
+.noibat3{
+    font-family:'Times New Roman';
+    font-size:16px;
+    color:#0073CF;
+    /*background-color:#0073CF;*/
+    /*text-align:center;*/
+    /*width:100%;*/
+}
+
+
+/* dành cho xét duyệt cấp cơ sở nhập thông tin 2 dãy*/
+.nhapthongtin table{
+    width:100%;
+    margin:auto;
+    margin-top:10px;
+
+    border:solid thin;
+    border-radius:4px;
+    border-color: #003366;
+
+}
+.nhapthongtin table tr{
+    /*border:solid thin;
+    border-radius:4px;
+    border-color: #003366;*/
+}
+.nhapthongtin table tr  .col-1{
+    width:25%;   
+    /*color:white;*/
+    text-align:right;
+    padding-right:15px;
+}
+.nhapthongtin table tr  .col-2{   
+    padding-left :5px;
+    /*color:white;*/
+    text-align:left;
+    padding-right:15px;
+}
+.nhapthongtin table tr  .col-3{
+    width:10%;
+    padding-left :15px;
+    /*color:white;*/
+    text-align:left;    
+}
+.nhapthongtin table tr  .col-4{
+    width:25%;
+    /*color:white;*/
+    text-align:right;
+    padding-right:15px;
+}
+.nhapthongtin table tr  .col-5{
+    padding-left :5px;
+    /*color:white;*/
+    text-align:left;
+    padding-right:15px;
+}
+.nhapthongtin table tr  .col-6{
+    width:10%;
+    padding-left :15px;
+    /*color:white;*/
+    text-align:left;   
+}
+
+
+
+
+
+/* định dạng bảng để hiển thị thông tin 2 dãy*/
+.muc{
+    margin:auto;
+    margin-top:20px;
+    font-size:20px;
+    text-align:center;
+    color:red;
+}
+.noidung{
+    margin:auto;
+    width:100%;
+    padding:10px;
+}
+.hienthithongtin{
+    width:80%;
+    /*background-color:#0073CF;*/
+    border-radius:4px;
+    margin:auto;
+
+
+     border-width:1px;
+    border-style:solid;
+}
+.hienthithongtin tr {
+
+}
+.hienthithongtin tr .col1{
+    text-align:left;
+    width:15%;
+    padding-left:10px;
+}
+.hienthithongtin tr .col2{
+    text-align:left;
+    
+    padding-left:10px;
+}
+.hienthithongtin tr .col3{
+     text-align:left;
+    width:20%;
+    padding-left:10px;
+}
+.hienthithongtin tr .col4{
+     text-align:left;
+    width:15%;
+    padding-left:10px;
+}
+.hienthithongtin tr .col5{
+     text-align:left;
+    width:25%;
+    padding-left:10px;
+}
+.hienthithongtin tr td{
+    border-width:1px;
+    border-style:solid;
+}
+
+
+

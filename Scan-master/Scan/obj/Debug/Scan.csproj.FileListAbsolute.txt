@@ -1,0 +1,31 @@
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.Form1.resources
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.frmTimKiem.resources
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.Properties.Resources.resources
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.csproj.GenerateResource.Cache
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\bin\Debug\Scan.exe
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\bin\Debug\Scan.pdb
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.exe
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.pdb
+C:\Users\CSharp\Desktop\ScanWork\Scan\Scan\obj\Debug\Scan.RenameFile.resources
+C:\Users\viet\Downloads\Scan\Scan\bin\Debug\Scan.exe
+C:\Users\viet\Downloads\Scan\Scan\bin\Debug\Scan.pdb
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.Form1.resources
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.frmTimKiem.resources
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.Properties.Resources.resources
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.RenameFile.resources
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.csproj.GenerateResource.Cache
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.exe
+C:\Users\viet\Downloads\Scan\Scan\obj\Debug\Scan.pdb
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.exe
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.pdb
+C:\Users\TIEN THANH\Desktop\Scan\Scan\bin\Debug\Scan.exe
+C:\Users\TIEN THANH\Desktop\Scan\Scan\bin\Debug\Scan.pdb
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.Form1.resources
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.frmTimKiem.resources
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.Properties.Resources.resources
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.RenameFile.resources
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.csproj.GenerateResource.Cache
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.Explorer.resources
+C:\Users\TIEN THANH\Desktop\Scan\Scan\obj\Debug\Scan.RemoveControls.resources

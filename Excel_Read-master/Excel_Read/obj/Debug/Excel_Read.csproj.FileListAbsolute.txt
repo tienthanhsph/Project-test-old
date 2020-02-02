@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Interop.Excel.dll
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Interop.Office.dll
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Excel_Read.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Excel_Read.Form1.resources
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Excel_Read.Properties.Resources.resources
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Excel_Read.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\bin\Debug\Excel_Read.exe
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\bin\Debug\Excel_Read.pdb
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\bin\Debug\Interop.Excel.dll
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\bin\Debug\Interop.Office.dll
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Excel_Read.exe
+C:\Users\Admin\Desktop\Excel_Read\Excel_Read\obj\Debug\Excel_Read.pdb

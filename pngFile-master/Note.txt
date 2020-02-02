@@ -1,0 +1,3 @@
+Chương trình ăn may là đọc đươc cả file .text lẫn .pgn nên hoàn thiện dễ
+thế nên vấn đề là đọc các định dạng file khác nhau thì khó hơn chút, sẽ tìm hiểu sau.
+tạm chấp nhận chương trình sử dụng đc như thế! ^_^ 

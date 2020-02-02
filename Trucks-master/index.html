@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Xe tải Shacman</title>
+	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">-->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css" />
+	<script src="/js/script.js" type="text/javascript" charset="utf-8" async defer></script>
+
+
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header" class="row">
+			<div id="left-header" class="col-sm-8">
+				<div class="logo" style=" float: left; margin-left: 100px;"><a href="index.html"><img src="images/logo.png" alt=""width= 250px height= 80px></a></div>
+				<div style="float:left; margin-left:10px;">
+					<span style="font-size: 20px; color:red;"></span><br/>
+					<span></span>
+				</div>
+			</div>
+			<div id="right-header" class="col-sm-4">
+				<div id="nguoidung">
+					<div id="login">
+						<a href=""> <span class ="glyphicon glyphicon-log-in"> </span> Đăng nhập</a> &nbsp&nbsp
+						<a href=""> <span class ="glyphicon glyphicon-user"></span> Đăng ký</a>
+					</div>
+					<div id="user">
+						<a href=""><span class ="glyphicon glyphicon-user"></span></a> User &nbsp&nbsp
+						<a href=""><span class="glyphicon glyphicon-log-out"></span> Thoát</a>
+					</div>
+				</div>
+
+				<div id="Cart">
+					<a href=""><span class="glyphicon glyphicon-thumbs-up" style="color: red"> </span> Thích</a> &nbsp&nbsp
+					<a href=""><span class="glyphicon glyphicon-shopping-cart" style="color:red"></span> Mua</a>
+				</div>
+			</div>
+			
+		</div><!-- /header -->
+		<div id="navbar" class ="row">
+			<div class="col-sm-2"></div>
+			<div id="nav" class="col-sm-8">
+				<ul>
+					<li><a href="index.html" title="">TRANG CHỦ</a></li>
+					<li><a href="Trucks.html" title="">CHỌN XE</a>
+						<ul>
+							<li><a href="" title="">Loại xe 1</a></li>
+							<li><a href="" title="">Loại xe 2</a></li>
+							<li><a href="" title="">Loại xe 3</a></li>
+						</ul>
+					</li>
+					<li><a href="News.html" title="">TIN MỚI</a></li>
+					<li><a href="menu.html" title="">BÁO GIÁ</a></li>			
+					<li><a href="contact.html" title="">LIÊN HỆ</a></li>
+				</ul>
+				
+			</div>
+			
+			<div id="search" class ="col-sm-2"><input value="Tìm kiếm " style="width:200px; margin-top:7px; margin-right: 10px;"></input></div>
+		</div>
+        <!--<div class="net"style="height:500px"></div>-->
+		<div class="blank" ></div>
+
+		<div  id="sect-slider" class="row">
+			<div class="col-sm-2"></div>
+			<div id="slider" class="col-sm-8">
+				<!-- <img src="images/trucks/img4.png" align="center" width="100%" height="100%" alt=""> -->
+						
+                <ul id="list">
+                    <li>
+                    	<div class="">
+                    		<div class="thongTinXe-slide"></div>
+                    		<span class="anh-slide" style="width: 100%;height: 80%"><img src="images/trucks/img1.png" width="100%" height="80%" alt=""></span>
+                		</div>
+                    </li>
+                    <li>
+                    	<div class="">
+	                    	<div class="thongTinXe-slide"></div>
+	                    	<span class="anh-slide" style="width: 100%;height: 80%"><img src="images/trucks/img2.png" width="100%" height="80%" alt=""></span>
+                    	</div>
+                    </li>
+                    <li>
+                    	<div class="">
+                    		<div class="thongTinXe-slide"></div>
+                    		<span class="anh-slide" style="width: 100%;height: 80%"><img src="images/trucks/img3.png" width="100%" height="80%" alt=""></span>
+                		</div>
+                    </li>
+                    <li>
+                    	<div class="">
+	                    	<div class="thongTinXe-slide"></div>
+	                    	<span class="anh-slide" style="width: 100%;height: 80%"><img src="images/trucks/img4.png" width="100%" height="80%" alt=""></span>
+                    	</div>
+                    </li>
+                    <li>
+                    	<div class="">
+	                    	<div class="thongTinXe-slide"></div>
+	                    	<span class="anh-slide" style="width: 100%;height: 80%"><img src="images/trucks/img5.png" width="100%" height="80%" alt=""></span>
+                    	</div>
+                    </li>
+                </ul>
+
+<script>
+	$(document).ready(function(){
+
+    var ds = document.getElementById("list").children;	
+    
+	setInterval(function(){myFunct(ds)},2500);
+	})
+
+	var i=0;
+	function myFunct(dss){
+		
+		$(dss[i]).css("display","none");
+		i++;
+		if(i >= dss.length)
+			i=0;
+		$(dss[i]).css("display","block");
+		//showlog(dss);
+	}
+	
+</script>
+			</div>
+			<div class="col-sm-2">
+			   <!--  <div style ="border: solid green 1px; border-radius:5px;padding:8px"><br/>
+					<span style="font-weight: bold; color: black;font-size: 21px; font-style: italic;">Liên hệ: </span> 
+					<br/><span style="font-weight: bold; color: red;font-size: 25px; "> Đỗ Pháp Văn</span> 
+					<br/><br/><span style="font-weight: bold; color: red;font-size: 23px; font-style: italic;">ĐT: <i>097 000 000</i></span>
+					<br/><br/>
+					<br/><br/>
+				</div> -->
+			</div>
+			
+		</div>
+		<div style="font-size: 20px; font-weight: bold; color:gray; text-align: center; margin-top:30px; margin-bottom:30pxfont-family: Arial, Helvetica, sans-serif;">XE TẢI SHACKMAN &nbsp &nbsp GIÁ CẢ CẠNH TRANH - UY TÍN - CHẤT LƯỢNG</div><hr>
+		<!--<div class="blank"></div>
+		<div class="blank"></div>-->
+		<div class="blank"></div>
+		<div class="sect">
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-8">
+					<div class="catg row"> XE MỚI	</div>
+					<div class="danhsach row">
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						<div class="xe col-sm-4">
+							<a href="" class="anhXe">
+								<div class="thongTinXe"></div>
+								<img src="images/trucks/img1.png" width="100%" height="80%" alt="">
+							</a>
+							<div class="buy">
+								<span class="cost" style="font-weight: bold; font-size: 16px; padding-top: 3px; color:red">10 Tỷ (VNĐ)</span><span class="addToCart btn btn-info">Chọn!</span>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<div class="col-sm-2"></div>
+			</div>
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-8">
+					<div class="paged">
+						<< 1  2  3  4  5>>
+					</div>
+				</div>
+				<div class="col-sm-2"></div>
+			</div>
+			
+
+			
+		</div>
+		<div class="blank"></div>
+		
+		<div id="footer">
+			
+			<span>Copyright © 2016 Mr Thành  </span>
+		</div>
+	</div>
+	
+
+
+
+			<!-- <script src="js/responsiveslides.min.js"></script>
+			<script>
+				$(function () {
+				  $("#slider1").responsiveSlides({
+					auto: true,
+					speed: 500,
+					namespace: "callbacks",
+					pager: true,
+				  });
+				});
+			</script> -->
+</body>
+</html>
